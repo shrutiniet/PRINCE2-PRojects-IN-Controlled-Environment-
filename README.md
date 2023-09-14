@@ -58,3 +58,22 @@ Communications Management Approach: It describes methods and frequencies of comm
 Daily Log: It records informal issues.
 Issues Register: It consists of notes regarding change requests, complaints, and problems sent by the project members.
 Lessons Log: It contains the lessons learned that could be useful in future projects.
+
+
+-------------------------------------------------------------------------------------------
+**AGILE**
+Agile is basically an iterative approach that is used in project management and software development. After combining with PRINCE2, Agile becomes PRINCE2-Agile. This dual framework for project management was released back in 2015 and since then, has been extremely popular.
+
+<img width="598" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/4e5e4b88-d4e6-417d-91b1-ed1c6e61212e">
+<img width="592" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/944ff0f1-b340-4b53-bb83-081d0731fad7">
+
+
+**The Kanban System**
+
+The origins of the Kanban system traced back to the 1940s when it was developed by Toyota to improve manufacturing efficiency. The scope of Kanban is larger in the sense that it allows team members to step out of their roles and use their expertise to help those in need. **The Kanban method works on the following six rules:**
+**1. Visualizing the Work:** When team members visualize their work, they are able to get a better sense of the project.
+**2. Limiting the Work-in-Progress (WIP):** Since switching between tasks is time-consuming, the Kanban system focuses on WIP. This ensures that people only accept doing work when they are capable to do so.
+**3. Flow Management:** After reaching the WIP limit, a bottleneck is created. This is when others in the Kanban system hustle together to get rid of this bottleneck, even if they lack the necessary expertise.
+**4. Clear Policies:** Kanban focuses on creating limits on WIP early in the project. At the same time, it proposes solutions to solve these bottlenecks to save time. 
+**5. Feedback Loop Implementation:** Daily meetings and collaboration with customers is an integral part of the Kanban policy as this helps in getting valuable feedback.
+**6. Collaborative Improvement with Experimental Evolution:** The Kanban method emphasizes identifying the bottlenecks and improving them once they are identified. Also, taking a proactive approach, such as the PDCA cycle, can be helpful in preventing such bottlenecks in the future. 
