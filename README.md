@@ -19,6 +19,28 @@ According to PRINCE2, a project is a temporary organization that consists of a g
 
 _**THE CONFIGURATION OF PRINCE2**_
 PRINCE2 is a project management method that focuses on completing projects by dividing them into various controllable and manageable stages. The basic configuration of PRINCE2 methodology can be divided into the following components:
-1.The seven principles of PRINCE2:  They explain the guidelines to be followed in PRINCE2.
-2.The seven themes: Describe the tools to be used in the project.
-3.The seven processes: They provide details for the PRINCE2 journey, from its beginning to its end.
+1. The seven principles of PRINCE2:  They explain the guidelines to be followed in PRINCE2.
+2. The seven themes: Describe the tools to be used in the project.
+3. The seven processes: They provide details for the PRINCE2 journey, from its beginning to its end.
+
+   Aside from these components, management products are also an important component of the PRINCE2 methodology. There are around 26 management products in PRINCE2, and they are divided into the following three parts:
+**Baselines**
+**Records**
+**Reports**
+
+<img width="603" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/022de0cb-61e2-45e6-b352-05d48a795f09">
+
+
+**THE SEVEN PRINCIPLES OF PRINCE2**
+A project not corresponding to these principles is said to be not being managed by the PRINCE2 methodology. these seven principles are:
+**Continued Business Justification:** During any project, the Business Case serves as the most crucial document. It is required to be updated at every stage of the project to ensure project viability. A project that does not update its business case regularly can get terminated in the early stages.
+**Learn from experience:** This PRINCE2 principle ensures that each project maintains its lessons log. All projects must keep referring to their own lesson logs and those of their previous projects to avoid any mishaps. Unless these lessons initiate a change, they are determined as lessons identified and not as lessons learned.
+**Defined roles and responsibilities:** In every project, team members are assigned different roles. Each individual team member can either share a role or take on multiple roles simultaneously. There is a four-structured hierarchy of roles in PRINCE2. These are:
+
+(1) Corporate or program management.
+(2) Project board.
+(3) Project manager level.
+(4) Team level.
+
+<img width="590" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/b5d17d52-fec9-40b1-a407-9ef0b8ae0e71">
+<img width="578" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/dd605712-d9a7-457a-91ac-28236f0caad1">
