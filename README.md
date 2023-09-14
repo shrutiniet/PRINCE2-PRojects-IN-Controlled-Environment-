@@ -44,3 +44,7 @@ A project not corresponding to these principles is said to be not being managed 
 
 <img width="590" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/b5d17d52-fec9-40b1-a407-9ef0b8ae0e71">
 <img width="578" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/dd605712-d9a7-457a-91ac-28236f0caad1">
+<img width="565" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/337e92f3-4a6a-455e-b245-15afbce48a23">
+<img width="572" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/449af157-3e8b-499e-a14d-1539ae4bd4f7">
+<img width="591" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/3f1bb7da-e9cb-441a-aa3b-aacc90d16c92">
+<img width="589" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/f3400ffc-6b5f-4c12-9998-c51d80a0ada3">
