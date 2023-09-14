@@ -1,4 +1,4 @@
-<img width="589" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/221aa076-ad5a-4a66-97ba-40426d482529"># PRINCE2-PRojects-IN-Controlled-Environment-
+# PRINCE2-PRojects-IN-Controlled-Environment-
 
 1. PRINCE2 stands for PRojects In Controlled Environment. It is among the best and most recognized project management approaches derived from its predecessor, PRINCE.
 2. Any project and environment can quickly adapt PRINCE 2 as its project management strategy. The project management strategy has been successfully adopted in more than 50 countries. It is designed such that it can prove to be beneficial for both the public and private sectors.
@@ -66,6 +66,7 @@ Agile is basically an iterative approach that is used in project management and 
 
 <img width="598" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/4e5e4b88-d4e6-417d-91b1-ed1c6e61212e">
 <img width="592" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/944ff0f1-b340-4b53-bb83-081d0731fad7">
+
 
 
 **The Kanban System**
