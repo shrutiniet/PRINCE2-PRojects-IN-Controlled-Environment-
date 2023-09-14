@@ -1,4 +1,4 @@
-# PRINCE2-PRojects-IN-Controlled-Environment-
+<img width="589" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/221aa076-ad5a-4a66-97ba-40426d482529"># PRINCE2-PRojects-IN-Controlled-Environment-
 
 1. PRINCE2 stands for PRojects In Controlled Environment. It is among the best and most recognized project management approaches derived from its predecessor, PRINCE.
 2. Any project and environment can quickly adapt PRINCE 2 as its project management strategy. The project management strategy has been successfully adopted in more than 50 countries. It is designed such that it can prove to be beneficial for both the public and private sectors.
@@ -48,3 +48,13 @@ A project not corresponding to these principles is said to be not being managed 
 <img width="572" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/449af157-3e8b-499e-a14d-1539ae4bd4f7">
 <img width="591" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/3f1bb7da-e9cb-441a-aa3b-aacc90d16c92">
 <img width="589" alt="image" src="https://github.com/shrutiniet/PRINCE2-PRojects-IN-Controlled-Environment-/assets/69854848/f3400ffc-6b5f-4c12-9998-c51d80a0ada3">
+
+**Management Products of PRINCE2**
+**Some important examples of management products from the PRINC2 method are:**
+The Benefits Management Approach: It defines the method and time for measuring the project's benefits expected by the senior user.
+Business Case: It captures financial justification for a project. It works as per the PRINCE2 principle that a project must display continued business justification. According to PRINCE2, if the Business Case becomes non-sensical, the project must either be changed or stopped.
+Checkpoint Report: This report is created by the Team Manager and sent to the Project Manager regularly to report the status of the Work Package.
+Communications Management Approach: It describes methods and frequencies of communicating with stakeholders while covering the information flow to and from the stakeholders.
+Daily Log: It records informal issues.
+Issues Register: It consists of notes regarding change requests, complaints, and problems sent by the project members.
+Lessons Log: It contains the lessons learned that could be useful in future projects.
