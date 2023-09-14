@@ -16,3 +16,9 @@ According to PRINCE2, a project is a temporary organization that consists of a g
  Although this diversity of perspectives and skills must be well-appreciated, there must be an alignment amongst these perspectives. Otherwise, the project's completion speed will slow down and even risk failure.
 4. **UNIQUE:** A project must always have some extent of uniqueness in it. This uniqueness can range anywhere from the project of sending the first human being into the space to the installation of new software in your office. Now, although you might have seen the installation of software programs earlier as well, this project can be a little different as can involve new people and bring out change in your organization.
 5. **UNCERTAINTY:** The last four characteristics induce a lot of uncertainty into a project, and nobody in the organization can project how things will turn out. Compared to regular business practices or business, there can be a lot of unforeseen circumstances and risks involved in a project. Therefore, uncertainty is one of the important elements of a project.
+
+_**THE CONFIGURATION OF PRINCE2**_
+PRINCE2 is a project management method that focuses on completing projects by dividing them into various controllable and manageable stages. The basic configuration of PRINCE2 methodology can be divided into the following components:
+1.The seven principles of PRINCE2:  They explain the guidelines to be followed in PRINCE2.
+2.The seven themes: Describe the tools to be used in the project.
+3.The seven processes: They provide details for the PRINCE2 journey, from its beginning to its end.
